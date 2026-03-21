@@ -5,7 +5,7 @@
     </td>
     <td style="padding-left: 20px;">
       <h3>Hey, I'm Naitik 👋</h3>
-      <p>A CS nerd who doesn't just use computers — he thinks about them at 3am.<br>
+      <p>A CS nerd who doesn't just use computers, he thinks about them at 3am.<br>
       Obsessed with how everything works, from the silicon to the software.</p>
     </td>
   </tr>
@@ -15,26 +15,25 @@
 
 ### Currently
 
-- 🌐 Building my foundations in **Full Stack Web Development** — backend is where I spend most of my time
-- 🧮 Starting to get serious about **DSA** — understanding the logic behind the code, not just writing it
+- 🌐 Building my foundations in **Full Stack Web Development**, backend is where I spend most of my time
+- 🧮 Starting to get serious about **DSA**, understanding the logic behind the code, not just writing it
 - 🐧 Daily driving **Linux** and slowly going deeper into how the system actually works
-- 🔭 Casually exploring **OS internals and computer architecture** — not studying it, just genuinely curious
+- 🔭 Casually exploring **OS internals and computer architecture** not studying it, just genuinely curious...
 
 ---
 
 ### Current Setup
 
-- 🐧 OS: **Fedora Linux**
+- 🐧 OS: **Fedora & Omarchy Linux**
 - 🎨 Desktop: **GNOME** with extensions
-- 💻 Editor: **VS Code** + **Cursor**
-- 🔧 Shell: **bash**
-- ⌨️ Workflow: minimal, keyboard-driven, no distractions
+- 💻 Editor: **VS Code**, **Antigravity**, **Cursor**.
+- 🔧 Shell: Experienced with **Bash and Zsh**, and actively developing skills in **Fish shell**
 
 ---
 
 ### Tech Stack
 
-**Main focus — what I work with daily**
+**I like to keep my main focus on the tools I use daily, since that’s where I learn and improve the most.**
 
 <table>
   <tr>
@@ -64,7 +63,7 @@
   </tr>
 </table>
 
-**Fundamentals — still learning, slightly painful**
+**I am still learning fundamentals, slightly painful**
 
 <table>
   <tr>
@@ -156,9 +155,9 @@
 
 ### Interests
 
-- 🖥️ How operating systems actually work — scheduling, memory, all of it
-- 🔩 Hardware internals — CPUs, memory hierarchy, architecture
-- 📡 The layers below the abstraction — computer architecture, system design
+- 🖥️ How operating systems actually work scheduling, memory, all of it
+- 🔩 Hardware internals CPUs, memory hierarchy, architecture
+- 📡 The layers below the abstraction computer architecture, system design
 - 💾 Computers in general. The whole thing. Always.
 
 ---
