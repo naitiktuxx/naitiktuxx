@@ -162,9 +162,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/naitiktuxx/naitiktuxx/main/github-metrics.svg" alt="GitHub & LeetCode Metrics" />
-</div>
+[![GitHub Green Dots](https://ghchart.rshah.org/40c463/naitiktuxx)](https://github.com/naitiktuxx)
 
 ---
 
