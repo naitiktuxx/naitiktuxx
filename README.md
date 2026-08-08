@@ -171,7 +171,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitiktuxx&theme=react-dark" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=naitiktuxx&theme=github-green-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
