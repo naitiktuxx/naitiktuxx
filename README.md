@@ -26,7 +26,7 @@
 
 - 🐧 OS: **Fedora & Omarchy Linux**
 - 🎨 Desktop: **GNOME** with extensions
-- 💻 Editor: **VS Code**, **Antigravity**, **Cursor**.
+- 💻 Editor: **VS Code**, **Antigravity**, **Cursor**
 - 🔧 Shell: Experienced with **Bash and Zsh**, and actively developing skills in **Fish shell**
 
 ---
@@ -155,14 +155,20 @@
 
 ### Interests
 
-- 🖥️ How operating systems actually work scheduling, memory, all of it
-- 🔩 Hardware internals CPUs, memory hierarchy, architecture
-- 📡 The layers below the abstraction computer architecture, system design
+- 🖥️ How operating systems actually work: scheduling, memory, all of it
+- 🔩 Hardware internals: CPUs, memory hierarchy, architecture
+- 📡 The layers below the abstraction: computer architecture, system design
 - 💾 Computers in general. The whole thing. Always.
 
 ---
 
-[![GitHub Green Dots](https://ghchart.rshah.org/40c463/naitiktuxx)](https://github.com/naitiktuxx)
+### Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/naitiktuxx">
+    <img src="https://ghchart.rshah.org/40c463/naitiktuxx" alt="Naitik's GitHub Green Dots" />
+  </a>
+</div>
 
 ---
 
