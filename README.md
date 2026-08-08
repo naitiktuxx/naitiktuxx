@@ -165,21 +165,20 @@
 ### Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/naitiktuxx">
-    <img src="https://ghchart.rshah.org/40c463/naitiktuxx" alt="Naitik's GitHub Green Dots" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=naitiktuxx&theme=github-green-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/github/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naitiktuxx&theme=github">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitiktuxx&theme=react-dark" alt="Contribution Graph">
-  </picture>
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/naitiktuxx">
+          <img src="https://ghchart.rshah.org/40c463/naitiktuxx" alt="Naitik's GitHub Green Dots" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://streak-stats.demolab.com/?user=naitiktuxx&theme=github-green-dark&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
