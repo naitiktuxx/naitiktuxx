@@ -170,6 +170,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitiktuxx&theme=react-dark" alt="Activity Graph" />
+</div>
+
 ---
 
 ### Find Me
