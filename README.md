@@ -162,6 +162,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naitiktuxx/naitiktuxx/main/github-metrics.svg" alt="GitHub & LeetCode Metrics" />
+</div>
+
+---
+
 ### Find Me
 
 - 🐙 GitHub → [@naitiktuxx](https://github.com/naitiktuxx)
