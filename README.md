@@ -174,6 +174,14 @@
   <img src="https://streak-stats.demolab.com/?user=naitiktuxx&theme=github-green-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards/main/profile-summary-card-output/github/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naitiktuxx&theme=github">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitiktuxx&theme=react-dark" alt="Contribution Graph">
+  </picture>
+</div>
+
 ---
 
 ### Find Me
