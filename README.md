@@ -162,27 +162,6 @@
 
 ---
 
-### Contribution Activity
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/naitiktuxx">
-          <img src="https://ghchart.rshah.org/40c463/naitiktuxx" alt="Naitik's GitHub Green Dots" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=naitiktuxx&theme=github-green-dark&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### Find Me
 
 - 🐙 GitHub → [@naitiktuxx](https://github.com/naitiktuxx)
